@@ -1,6 +1,6 @@
-# 绩效考核 V2.0
+# node restfult api
 
-> 绩效考核 RESTful API Server
+>  RESTful API Server
 
 ## using :
 
